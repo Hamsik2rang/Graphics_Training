@@ -1,6 +1,7 @@
 # Computer Graphics Training
   
-This Repository is space that be posted practice codes for [Hong Jeong Mo's Computer Graphics](https://honglab.teachable.com/).
+This Repository is space that be posted practice codes for [Hong Jeong Mo's Computer Graphics](https://honglab.teachable.com/).  
+  
 written by C++  
   
 # 컴퓨터 그래픽스 연습
