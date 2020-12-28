@@ -12,4 +12,4 @@
 
 
 
-![](./image/example7.jpg)
+<img src="./image/example7.jpg" style="zoom:33%;" />
