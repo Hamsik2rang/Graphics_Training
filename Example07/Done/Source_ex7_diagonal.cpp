@@ -5,8 +5,6 @@
 #define GREEN 1
 #define BLUE 2
 
-#define DEBUG
-
 using namespace std;
 
 void write_header(ofstream&, const int, const int);
