@@ -2,7 +2,7 @@
   
 This Repository is space that be posted practice codes for [Jeong-Mo Hong's Computer Graphics](https://honglab.teachable.com/).  
   
-written by C++  
+written by C++.  
   
 # 컴퓨터 그래픽스 연습
   
