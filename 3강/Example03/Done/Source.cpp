@@ -62,7 +62,7 @@ public:
 			}
 			step = y1 - y0;
 		}
-		// For avoid code duplication, make two increasement variable. but I don't know whether it is efficient.
+		// To avoid code duplication, make two increasement variable. but I don't know whether it is efficient.
 		float x = x0;
 		float y = y0;
 		const float x_inc = float(x1 - x0) / step;
